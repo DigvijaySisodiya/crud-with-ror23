@@ -1,0 +1,2 @@
+module InPostHelper
+end
